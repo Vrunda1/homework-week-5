@@ -1,6 +1,6 @@
 package Program;
 
-public class Equation {
+public class Program9 {
 
     public static void main(String[] args)
     {
