@@ -13,6 +13,9 @@ public class Program1
         System.out.println("Extra Skill             : Database knowledge,SQL,Digital Marketing");
         System.out.println("Learning                : Automation Testing");
         System.out.println("Hobbies                 : Music,Learning new things");
+        System.out.println("Favourite colour        : Red");
+        System.out.println("Favourite Cuisine       : Mexican");
+        System.out.println("Favourite place         : Lake district");
         System.out.println("My Strength             : Communication skill,Positive thinking");
         System.out.println("My Weakness             : Over thinking");
     }
